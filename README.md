@@ -3,6 +3,9 @@
 This project is a terminal based information management system for a fictional mechanic shop that was implmented using C++ while following OOP design principles.
 
 ## Screenshots
+![](https://github.com/ThinusanR/Mechanic-Shop/blob/main/screenshots/img1.PNG)
+![](https://github.com/ThinusanR/Mechanic-Shop/blob/main/screenshots/img2.PNG)
+![](https://github.com/ThinusanR/Mechanic-Shop/blob/main/screenshots/img3.PNG)
 ## Features 
 - Display customer Database
 - Add customer
